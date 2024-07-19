@@ -1,4 +1,4 @@
-# statistics_challeng_mod5
+# Using Matplotlib and Numpy for data visualization
 
 What good is data without a good plot to tell the story?
 
