@@ -9,14 +9,29 @@ Scipy
 Numpy  
 
 Pandas is used to:  
-Load data files and store in dataframes
-Merge files based on mouse ID
-Clean data by removing duplicates that might skew the analysis
-Create statistical calculations based on drug regimens tested
+Load data files and store in dataframes  
+Merge files based on mouse ID  
+Clean data by removing duplicates that might skew the analysis  
+Create statistical calculations based on drug regimens tested  
 
 ![image](https://github.com/user-attachments/assets/34f6d948-e447-44fc-8f32-a1e0eb1f2d88)
 
 
 ![image](https://github.com/user-attachments/assets/50a9cca8-d095-428f-bb6c-0a6dc7f35773)
+
+
+Scipy is used to calculate the correlation coefficient and linear regression model  
+
+![image](https://github.com/user-attachments/assets/d4ce52c8-e301-46ff-9dab-b35e65f6e37f)
+
+
+Numpy and Matplotlib are then used to plot the datapoints created  
+
+
+![image](https://github.com/user-attachments/assets/0b3e364b-1ebc-4021-8951-f7f4889088b7)
+
+
+![image](https://github.com/user-attachments/assets/c47f990a-e719-4f3c-992b-0d6049113d3c)
+
 
 
